@@ -1,3 +1,3 @@
-Node.js 代码片段。
+Node.js 代码片段
 
-Node.js code snippets for practice.
+*Node.js code snippets for practice*
